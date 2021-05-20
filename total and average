@@ -6,11 +6,11 @@ print("Total=",total)
 average=total/3
 print("Average=",average)
 #output
-#Enter a value:
+Enter a value:
 10
-#Enter b value:
+Enter b value:
 20
-#Enter c value:
+Enter c value:
 30
 Total=60
 Average=30
