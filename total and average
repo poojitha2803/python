@@ -1,0 +1,16 @@
+a=int(input("Enter a value:"))
+b=int(input("Enter b value:"))
+c=int(input("Enter c value:"))
+total=a+b+c
+print("Total=",total)
+average=total/3
+print("Average=",average)
+#output
+#Enter a value:
+10
+#Enter b value:
+20
+#Enter c value:
+30
+Total=60
+Average=30
