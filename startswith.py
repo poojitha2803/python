@@ -4,3 +4,10 @@ print(s.startswith("P"))
 print(s.startswith("M"))
 print(s.startswith("p",0))
 print(s.startswith("p",1))
+
+Output:
+True
+False
+False
+True
+False  
