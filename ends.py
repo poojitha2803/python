@@ -4,3 +4,10 @@ print(s.endswith("N"))
 print(s.endswith("p"))
 print(s.endswith("n",4))
 print(s.endswith("n,5"))
+
+Output:
+True
+False
+False
+True
+False
