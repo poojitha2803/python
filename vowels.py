@@ -1,8 +1,8 @@
 s=input("Enter a string:")
 print("Vowels in the string are")
-for char in  s:
-    if char=='a' or char=='e' or char=='i' or char=='o' or char=='u':
-        print(char,end=" ")
+for ch in s:
+         if(ch=='A' or ch=='E'or ch=='I' or ch=='O' or ch=='U'or ch=='a' or ch=='e' or ch=='i' or ch=='o' or ch=='u') :
+        print(ch,end=" ")
 
 Output:
 Enter a string:Python Programming
