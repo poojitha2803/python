@@ -4,3 +4,6 @@ if a>b:
     print("A")
 else:
     print("b")
+
+Output:
+b    
