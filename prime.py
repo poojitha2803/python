@@ -9,3 +9,11 @@ if flag==2:
     print("N is prime")
 else:
     print("N is not a prime number")
+
+Output:
+
+Enter any number:67
+N is prime
+
+Enter any number:1280
+N is not a prime number    
