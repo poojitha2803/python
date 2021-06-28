@@ -6,3 +6,7 @@ while i<=n:
         print(i,end="\t")
     i=i+1   
     
+Output:
+Enter any number64
+The factors of n are:
+1	2	4	8	16	32	64	    
