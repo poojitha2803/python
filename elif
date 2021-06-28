@@ -1,0 +1,14 @@
+n=int(input("Enter any value"))
+if n%2==0:
+    print("Divisible by 2")
+elif n%3==0:
+    print("Divisible by 3")
+elif n%5==0:
+    print("Dvisible by 5")
+else:
+    print("Not divisible by 2,3 and 5")
+Output:
+Enter any value34
+Divisible by 2
+Enter any value11
+Not divisible by 2,3 and 5
