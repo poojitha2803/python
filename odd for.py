@@ -4,3 +4,9 @@ print("Odd numbers are:")
 for i in range (s,e+1):
     if i%2==1:
         print(i,end="\t")
+Output:
+    
+Enter start number:1
+Enter end number:9
+Odd numbers are:
+1	3	5	7	9
