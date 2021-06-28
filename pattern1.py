@@ -8,3 +8,14 @@ for i in range (n,1,-1):
         print (j,end=" ")
     print ( )   
     
+Output:
+Enter n value:5
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1 
