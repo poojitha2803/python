@@ -18,3 +18,8 @@ elif amount>=5000:
 else:
     print("No discount")
     print("Bill amount is ",amount) 
+
+Output:
+Enter the total bill3000
+Discount is  600.0
+Bill amount is  2400.0    
