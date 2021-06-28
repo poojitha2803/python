@@ -8,3 +8,13 @@ for i in a:
         print("i=",i,"and sum=",sum)
 print("Sum of even numbers:")
 print ("total=",sum)
+
+Output:
+range(0, 10)
+<class 'range'>
+i= 1 and sum= 1
+i= 3 and sum= 4
+i= 5 and sum= 9
+i= 7 and sum= 16
+i= 9 and sum= 25
+Sum of even numbers:25   
